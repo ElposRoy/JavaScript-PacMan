@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- CODED BY: ELPOS ROY -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Elpos Roy - PacMan Game</title>
+        <link rel="icon" type="image/x-icon" href="images/web.png">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="other.css">
+        <link rel="stylesheet" href="obstacle.css">
+    </head>
+    <body>
+        <audio id="DanceAudio">
+            <source src="Audio/SongAudio.mp3" type="audio/mpeg">
+          </audio>
+        <audio id="DeathAudio">
+            <source src="Audio/death.mp3" type="audio/mpeg">
+        </audio>
+        <audio id="BeepAudio">
+            <source src="Audio/beep.mp3" type="audio/mpeg">
+        </audio>
+        <audio id="TimesUp">
+            <source src="Audio/TimesUp.mp3" type="audio/mpeg">
+        </audio>
+        <h2>Pacman Game</h2>
+        <div id="container">
+            <div id="layout"></div>
+            <div id="pacman"></div>
+            <div id="Crewmate"></div>
+            <div id="Crewmate2"></div>
+            <div id="Crewmate3"></div>
+            <div id="Crewmate4"></div>
+            <div id="Crewmate5"></div>
+       
+        </div>
+            <h5>HIGH SCORE : <span id="score">0</span> </h5>
+            <h5>TIMER : <span id="counter"></span> </h5>
+           
+        <script src="display.js"></script>   
+        <script src="app.js"></script>   
+    </body>
+</html>

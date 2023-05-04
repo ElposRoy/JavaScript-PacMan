@@ -1,0 +1,167 @@
+div.horizontal{
+    background: url('images/Wall.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.downRight{
+    background: url('images/dwnRight.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.lftDown{
+    background: url('images/lftDown.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.topLeft{
+    background: url('images/topLeft.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.topRight{
+    background: url('images/topRight.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.LeftRound{
+    background: url('images/LeftRound.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.RightRound{
+    background: url('images/RightRound.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.TopRound{
+    background: url('images/TopRound.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.BottomRound{
+    background: url('images/BottomRound.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.TriRight{
+    background: url('images/triRight.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.TriLeft{
+    background: url('images/trileft.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.Spike{
+    background: url('images/Spike.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+}
+div.Go{
+    background: url('images/Gbutton.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.Stop{
+    background: url('images/sButton.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+div.vertical{
+    background: url('images/VerticalWall.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+    margin:0;
+}
+.portalLeft{
+    background: url('images/portalLeft.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+}
+.portalRight{
+    background: url('images/portalRight.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    position: relative;
+}
